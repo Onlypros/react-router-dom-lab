@@ -1,8 +1,27 @@
+body {
+  background-color: #353434;
+}
+
+h1 {
+  color: white;
+}
+
+.MD {
+  color: white;
+}
+
+.input {
+  background-color: #4b4b4b;
+  color: white;
+}
+.button {
+  color: white;
+}
+
 #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
-  text-align: center;
 }
 
 .logo {
